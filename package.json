@@ -4,13 +4,13 @@
   "description": "Scaffolding para comenzar servidor de ExpressJS",
   "main": "index.js",
   "directories": {
-    "doc": "doc",
-    "test": "test"
+    "doc": " ./directories/doc",
+    "test": "./directories/test"
   },
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "test": "nodemon ./test/console.js"
+    "test": "nodemon ./directories/test/console.js"
   },
   "dependencies": {
     "app-root": "^3.0.0",

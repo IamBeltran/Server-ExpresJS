@@ -1,4 +1,4 @@
-![Express Logo](ExpressJS.png)
+![Express Logo](./directories/ExpressJS.png)
 
 # Scaffolding de servidor Express
 
